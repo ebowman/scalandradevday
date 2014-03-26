@@ -1,0 +1,1 @@
+CREATE TABLE kv (user varchar, key varchar, value varchar, PRIMARY KEY(user, key));
